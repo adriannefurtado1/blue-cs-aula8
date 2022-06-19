@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\bin\Debug\net6.0\ExerciciosA8.exe
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\bin\Debug\net6.0\ExerciciosA8.deps.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\bin\Debug\net6.0\ExerciciosA8.runtimeconfig.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\bin\Debug\net6.0\ExerciciosA8.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\bin\Debug\net6.0\ExerciciosA8.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.AssemblyInfo.cs
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\refint\ExerciciosA8.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ExerciciosA8.genruntimeconfig.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula8\ExerciciosA8\obj\Debug\net6.0\ref\ExerciciosA8.dll
